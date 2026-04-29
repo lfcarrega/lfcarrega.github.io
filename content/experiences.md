@@ -14,7 +14,6 @@ s de delivery e cardápios digitais integrados ao sistema (Ifood, Zé Delivery e
 
 **Auxiliar de Digitalização**  
 Empresa: City Connect | Início: 03/07/2023 | Fim: 24/05/2024    
-Recebimento, conferência e preparação/higienização dos documentos; digitalização; controle de qualidade; remontagem dos processos para devolução ao cliente; organização e triagem de documentos; indexação em sistema GED; preenchimento diário de planilhas.
 * Criação de ferramentas em AutoHotkey  
 * Montagem e configuração de rede local
 <details>
