@@ -2,6 +2,9 @@
 
 **Analista de Suporte Júnior**  
 Empresa: Sistemas Nano | Início: 03/06/2024 | Fim: 12/09/2025    
+* Suporte N1/N2 remoto em ERP Windows
+* Administração e queries em SQL Server
+* Configuração de periféricos fiscais e integrações (iFood, Nuvemshop)
 <details>
 <summary>Detalhes...</summary>
 Suporte técnico remoto N1/N2 em ambiente Windows para um sistema ERP; configuração e integração de periféricos fiscais (SAT, TEF, balanças); manipulação e manutenção de bancos de dados MS SQL Server; administração de rotinas de back
