@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lfcarrega</title>
-    <link>http://localhost:1313/</link>
+    <link>https://lfcarrega.github.io/</link>
     <description>Recent content on lfcarrega</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lfcarrega.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://lfcarrega.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://lfcarrega.github.io/about/</guid>
       <description>&lt;h2 id=&#34;sobre&#34;&gt;&#xA;  Sobre&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#sobre&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Profissional de TI com experiência em Linux, virtualização com KVM/QEMU e libvirt, automação de sistemas e processos, infraestrutura, atendimento N1/N2, administração de bancos de dados SQL Server e configuração de ambientes Windows/Linux. Histórico de projetos práticos envolvendo conteinerização com Docker e Incus, reverse proxy com Caddy, VPN WireGuard, self-hosting de serviços, e desenvolvimento de ferramentas próprias com AutoHotkey, Bash, Python e Svelte. Experiência com linguagens de programação com foco em automação de processos ou rotinas de infraestrutura.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://lfcarrega.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://lfcarrega.github.io/contact/</guid>
       <description>&lt;h2 id=&#34;contato&#34;&gt;&#xA;  Contato&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contato&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;E-mail: &lt;a href=&#34;mailto:lfcarrega@gmail.com&#34; &gt;lfcarrega@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;WhatsApp: &lt;a href=&#34;https://wa.me/&amp;#43;5519987105605&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;+55 19 98710-5605&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/education/</link>
+      <link>https://lfcarrega.github.io/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/</guid>
+      <guid>https://lfcarrega.github.io/education/</guid>
       <description>&lt;h2 id=&#34;educação&#34;&gt;&#xA;  Educação&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#educa%c3%a7%c3%a3o&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Técnico em Logística&lt;/strong&gt;&lt;br&gt;&#xA;Escola: FIEC | Início: 06/2014 | Conclusão: 06/2015&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ensino Médio&lt;/strong&gt;&lt;br&gt;&#xA;Escola: Escola Estadual Professor Antônio de Pádua Prado | Início: 01/2013 | Conclusão: 12/2015&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/experiences/</link>
+      <link>https://lfcarrega.github.io/experiences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experiences/</guid>
+      <guid>https://lfcarrega.github.io/experiences/</guid>
       <description>&lt;h2 id=&#34;experiências&#34;&gt;&#xA;  Experiências&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#experi%c3%aancias&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Analista de Suporte Júnior&lt;/strong&gt;&lt;br&gt;&#xA;Empresa: Sistemas Nano | Início: 03/06/2024 | Fim: 12/09/2025&lt;/p&gt;&#xA;&lt;details&gt;&#xA;&lt;summary&gt;Detalhes...&lt;/summary&gt;&#xA;Suporte técnico remoto N1/N2 em ambiente Windows para um sistema ERP; configuração e integração de periféricos fiscais (SAT, TEF, balanças); manipulação e manutenção de bancos de dados MS SQL Server; administração de rotinas de back&#xA;up; diagnóstico e resolução de falhas de sistema; desenvolvimento de relatórios customizados com queries SQL aplicando lógica de negócio do cliente; migração de dados entre bancos de dados; suporte no uso de marketplaces, plataforma&#xA;s de delivery e cardápios digitais integrados ao sistema (Ifood, Zé Delivery e Nuvemshop).&#xA;&lt;/details&gt;&#xA;&lt;p&gt;&lt;strong&gt;Auxiliar de Digitalização&lt;/strong&gt;&lt;br&gt;&#xA;Empresa: City Connect | Início: 03/07/2023 | Fim: 24/05/2024 &lt;br&gt;&#xA;Recebimento, conferência e preparação/higienização dos documentos; digitalização; controle de qualidade; remontagem dos processos para devolução ao cliente; organização e triagem de documentos; indexação em sistema GED; preenchimento diário de planilhas.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://lfcarrega.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://lfcarrega.github.io/projects/</guid>
       <description>&lt;h2 id=&#34;projetos&#34;&gt;&#xA;  Projetos&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#projetos&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/lfcarrega/reports-engine&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Motor de Relatórios Web&lt;/a&gt;&lt;/strong&gt; (AutoHotkey / T-SQL / JavaScript)&lt;br&gt;&#xA;Ferramenta desktop para geração de relatórios a partir de bases SQL Server, com interface web servida localmente via Caddy Server. Executa consultas T-SQL parametrizadas por data, usuário e loja, e exibe os resultados em tabelas interativas com filtros e exportação para CSV, XLSX, PDF e HTML.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/lfcarrega/libvirt-helper&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gerenciador de Dispositivos USB para VMs&lt;/a&gt;&lt;/strong&gt; (Python / Libvirt API)&lt;br&gt;&#xA;Ferramenta CLI em Python para hot-plug de dispositivos USB em máquinas virtuais KVM/QEMU sem edição manual de XML. Integra com a API do Libvirt e oferece menus interativos para seleção de domínios e dispositivos.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://lfcarrega.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://lfcarrega.github.io/resume/</guid>
       <description>&lt;h1 id=&#34;lucas-furtado-carregã&#34;&gt;&#xA;  Lucas Furtado Carregã&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#lucas-furtado-carreg%c3%a3&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Endereço: &lt;a href=&#34;https://goo.gl/maps/BaEGL1MJL92PLMv57&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jardim São Conrado, Indaiatuba – SP&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&lt;h2 id=&#34;contato&#34;&gt;&#xA;  Contato&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contato&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;E-mail: &lt;a href=&#34;mailto:lfcarrega@gmail.com&#34; &gt;lfcarrega@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;WhatsApp: &lt;a href=&#34;https://wa.me/&amp;#43;5519987105605&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;+55 19 98710-5605&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 id=&#34;competências&#34;&gt;&#xA;  Competências&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#compet%c3%aancias&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Sistemas: Linux, Windows Server, Windows&lt;br&gt;&#xA;Virtualização: KVM/QEMU, Libvirt, VMware (conceitual), Incus, Docker&lt;br&gt;&#xA;Redes: Active Directory, TCP/IP, DNS, DHCP, WireGuard, VPN, Rsync, Reverse Proxy, SAMBA&lt;br&gt;&#xA;Scripting/Automação: Bash, Python, PowerShell, AutoHotkey&lt;br&gt;&#xA;Banco de dados: SQL Server, T-SQL&lt;br&gt;&#xA;Web/API: FastAPI, Svelte, Caddy&lt;br&gt;&#xA;Armazenamento: RAID, LVM, LUKS, ZFS, NAS (conceitual)&lt;br&gt;&#xA;Ferramentas: Git, Libvirt API, DISM, virsh&lt;br&gt;&#xA;Idiomas: Ingês (Intermediário), Português Brasileiro (Nativo)&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/skills/</link>
+      <link>https://lfcarrega.github.io/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/skills/</guid>
+      <guid>https://lfcarrega.github.io/skills/</guid>
       <description>&lt;h2 id=&#34;competências&#34;&gt;&#xA;  Competências&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#compet%c3%aancias&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Sistemas: Linux, Windows Server, Windows&lt;br&gt;&#xA;Virtualização: KVM/QEMU, Libvirt, VMware (conceitual), Incus, Docker&lt;br&gt;&#xA;Redes: Active Directory, TCP/IP, DNS, DHCP, WireGuard, VPN, Rsync, Reverse Proxy, SAMBA&lt;br&gt;&#xA;Scripting/Automação: Bash, Python, PowerShell, AutoHotkey&lt;br&gt;&#xA;Banco de dados: SQL Server, T-SQL&lt;br&gt;&#xA;Web/API: FastAPI, Svelte, Caddy&lt;br&gt;&#xA;Armazenamento: RAID, LVM, LUKS, ZFS, NAS (conceitual)&lt;br&gt;&#xA;Ferramentas: Git, Libvirt API, DISM, virsh&lt;br&gt;&#xA;Idiomas: Ingês (Intermediário), Português Brasileiro (Nativo)&lt;/p&gt;</description>
     </item>
   </channel>
