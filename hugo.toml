@@ -19,6 +19,7 @@ hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 customCSS = []
 customSCSS = []
+favicon = true
 
 # https://getavataaars.com
 avatarURL = "images/avatar.png"
