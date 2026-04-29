@@ -1,4 +1,3 @@
 ## Sobre
 
-Profissional de TI com experiência em Linux, virtualização com KVM/QEMU e libvirt, automação de sistemas e processos, infraestrutura, atendimento N1/N2, administração de bancos de dados SQL Server e configuração de ambientes Windows/Linux. Histórico de projetos práticos envolvendo conteinerização com Docker e Incus, reverse proxy com Caddy, VPN WireGuard, self-hosting de serviços, e desenvolvimento de ferramentas próprias com AutoHotkey, Bash, Python e Svelte. Experiência com linguagens de programação com foco em automação de processos ou rotinas de infraestrutura.
-
+Profissional de TI com histórico em suporte técnico e infraestrutura, com forte inclinação pra automação e resolução de problemas. Encontro valor indo além do escopo formal, seja criando ferramentas pra eliminar trabalho repetitivo, montando infraestrutura do zero ou documentando soluções pra quem vem depois. Experiência prática com ambientes Linux, virtualização KVM/QEMU e self-hosting de serviços, complementada por projetos próprios que refletem curiosidade técnica contínua.
