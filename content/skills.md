@@ -8,4 +8,4 @@ Banco de dados: SQL Server, T-SQL
 Web/API: FastAPI, Svelte, Caddy  
 Armazenamento: RAID, LVM, LUKS, ZFS, NAS (conceitual)  
 Ferramentas: Git, Libvirt API, DISM, virsh  
-Idiomas: Ingês (Intermediário), Português Brasileiro (Nativo)
+Idiomas: Inglês (Intermediário), Português Brasileiro (Nativo)
