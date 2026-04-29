@@ -1,4 +1,72 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://lfcarrega.github.io/'
+locale = 'pt-br'
+title = 'lfcarrega'
 theme = 'coder'
+languageCode = 'pt-br'
+defaultContentLanguage = 'pt-br'
+enableEmoji = 'true'
+
+[params]
+author = "Lucas Furtado Carregã"
+# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "lfcarrega's Personal Site"
+keywords = "resume,personal"
+info = ["Analista de Suporte", "Técnico de Informática", "Analista de Infraestrutura"]
+since = 2026
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+
+# https://getavataaars.com
+avatarURL = "images/avatar.png"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/lfcarrega/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa-brands fa-gitlab fa-2x"
+weight = 2
+url = "https://gitlab.com/lfcarrega/"
+
+[[params.social]]
+name = "WhatsApp"
+icon = "fa-brands fa-whatsapp fa-2x"
+weight = 3
+url = "https://wa.me/+5519987105605"
+
+[[params.social]]
+name = "E-mail"
+icon = "fa-solid fa-at fa-2x"
+weight = 4
+url = "mailto:lfcarrega@gmail.com"
+
+[[menu.main]]
+name = "Sobre"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Projetos"
+weight = 2
+url = "projects/"
+
+[[menu.main]]
+name = "Experiências"
+weight = 3
+url = "experiences/"
+
+[[menu.main]]
+name = "Contato"
+weight = 4
+url = "contact/"
+
+[markup.goldmark.renderer]
+unsafe = true
+

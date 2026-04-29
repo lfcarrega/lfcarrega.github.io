@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+    <title>{{ .Title }}</title>
+  {{ partial "head.html" . }}
+  <style>
+    @media print {
+      .heading-link {
+        display: none;
+      }
+      details {
+        display: block;
+      }
+      details summary {
+        display: none;
+      }
+      details > * {
+        display: block;
+      }
+    }
+  </style>
+</head>
+{{ $csClass := "colorscheme-light" }}
+{{ if eq .Site.Params.colorScheme "dark" }}
+{{ $csClass = "colorscheme-dark" }}
+{{ else if eq .Site.Params.colorScheme "auto" }}
+{{ $csClass = "colorscheme-auto" }}
+{{ end }}
+<body class="preload-transitions {{ $csClass }}{{ if .Site.Params.rtl }} rtl{{ end }}">
+  <main class="wrapper">
+    <div class="content">
+      {{ partial "page.html" . }}
+    </div>
+  </main>
+  {{ if hugo.IsServer }}
+  {{ $script := resources.Get "js/coder.js" }}
+  <script src="{{ $script.RelPermalink }}"></script>
+  {{ else }}
+  {{ $script := resources.Get "js/coder.js" | resources.Minify | resources.Fingerprint }}
+  <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+  {{ end }}
+  <script>
+  window.addEventListener('beforeprint', function() {
+    document.querySelectorAll('details').forEach(el => el.open = true);
+  });
+</script>
+</body>
+</html>
