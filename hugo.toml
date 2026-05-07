@@ -1,6 +1,6 @@
 baseURL = 'https://lfcarrega.github.io/'
 locale = 'pt-br'
-title = 'lfcarrega'
+title = 'Lucas Furtado Carregã — Infraestrutura, Suporte e TI'
 theme = 'coder'
 languageCode = 'pt-br'
 defaultContentLanguage = 'pt-br'
@@ -9,8 +9,8 @@ enableEmoji = 'true'
 [params]
 author = "Lucas Furtado Carregã"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "lfcarrega's Personal Site"
-keywords = "resume,personal"
+description = "Profissional de TI com experiência em infraestrutura Linux, virtualização KVM/QEMU, Docker, redes e automação. Disponível para oportunidades em suporte N2/N3 e infraestrutura."
+keywords = "infraestrutura, suporte técnico, linux, windows server, kvm, qemu, docker, virtualização, redes, wireguard, active directory, dns, python, bash, analista de infraestrutura, analista de suporte, indaiatuba, são paulo"
 info = ["Analista de Suporte", "Técnico de Informática", "Analista de Infraestrutura"]
 since = 2026
 rtl = false
@@ -29,12 +29,6 @@ name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/lfcarrega/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa-brands fa-gitlab fa-2x"
-weight = 2
-url = "https://gitlab.com/lfcarrega/"
 
 [[params.social]]
 name = "WhatsApp"
