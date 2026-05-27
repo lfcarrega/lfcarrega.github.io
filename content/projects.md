@@ -1,6 +1,6 @@
 ## Projetos
 
-**AVISO: estou em processo de reestruturação dos repositórios e dessa página aqui, entre em contato caso tenha interesse em ter mais informações**
+**AVISO: estou em processo de reestruturação dos repositórios e dos projetos, entre em contato caso tenha interesse em ter mais informações**
 
 **[Motor de Relatórios Web](https://github.com/lfcarrega/reports-engine)** (AutoHotkey / T-SQL / JavaScript)  
 Ferramenta desktop para geração de relatórios a partir de bases SQL Server, com interface web servida localmente via Caddy Server. Executa consultas T-SQL parametrizadas por data, usuário e loja, e exibe os resultados em tabelas interativas com filtros e exportação para CSV, XLSX, PDF e HTML.
