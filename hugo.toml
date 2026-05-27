@@ -11,7 +11,7 @@ author = "Lucas Furtado Carregã"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Profissional de TI com experiência em infraestrutura Linux, virtualização KVM/QEMU, Docker, redes e automação. Disponível para oportunidades em suporte N2/N3 e infraestrutura."
 keywords = "infraestrutura, suporte técnico, linux, windows server, kvm, qemu, docker, virtualização, redes, wireguard, active directory, dns, python, bash, analista de infraestrutura, analista de suporte, indaiatuba, são paulo"
-info = ["Analista de Suporte", "Técnico de Informática", "Analista de Infraestrutura"]
+info = ["Infraestrutura", "Automação", "Suporte N2/N3"]
 since = 2026
 rtl = false
 colorScheme = "auto"
