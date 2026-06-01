@@ -1,4 +1,4 @@
-## ETC
+## Etc.
 
 ### Por que não uso LinkedIn?
 Porque o LinkedIn é uma rede social que se disfarça de ferramenta profissional.

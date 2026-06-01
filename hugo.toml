@@ -42,6 +42,12 @@ icon = "fa-solid fa-at fa-2x"
 weight = 3
 url = "mailto:lfcarrega@gmail.com"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://lfcarrega.github.io/etc/#por-que-n%c3%a3o-uso-linkedin"
+
 [[menu.main]]
 name = "Sobre"
 weight = 1
@@ -63,7 +69,7 @@ weight = 4
 url = "contact/"
 
 [[menu.main]]
-name = "ETC"
+name = "Etc."
 weight = 5
 url = "etc/"
 
