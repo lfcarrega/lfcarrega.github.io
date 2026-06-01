@@ -4,13 +4,11 @@ layout: "resume"
 
 # Lucas Furtado Carregã
 
-Endereço: [Jardim São Conrado, Indaiatuba – SP](https://goo.gl/maps/BaEGL1MJL92PLMv57)  
+Profissional de TI: Infraestrutura, Suporte N2/N3 e Automações
+
+Endereço: [Indaiatuba, SP - Brasil](https://maps.app.goo.gl/GzdgjUaVPbyn9XtQA)  
 
 {{< include "contact" >}}
-
----
-
-{{< include "skills" >}}
 
 ---
 
@@ -27,3 +25,8 @@ Endereço: [Jardim São Conrado, Indaiatuba – SP](https://goo.gl/maps/BaEGL1MJ
 ---
 
 {{< include "education" >}}
+
+---
+
+{{< include "skills" >}}
+
