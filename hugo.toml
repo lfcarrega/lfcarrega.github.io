@@ -25,28 +25,28 @@ favicon = true
 avatarURL = "images/avatar.png"
 
 [[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "https://github.com/lfcarrega/"
-
-[[params.social]]
-name = "WhatsApp"
-icon = "fa-brands fa-whatsapp fa-2x"
-weight = 2
-url = "https://wa.me/+5519987105605"
-
-[[params.social]]
 name = "E-mail"
 icon = "fa-solid fa-at fa-2x"
-weight = 3
+weight = 1
 url = "mailto:lfcarrega@gmail.com"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 2
+url = "https://github.com/lfcarrega/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://linkedin.com/in/lfcarrega"
+
+[[params.social]]
+name = "WhatsApp"
+icon = "fa-brands fa-whatsapp fa-2x"
 weight = 4
-url = "https://lfcarrega.github.io/etc/#por-que-n%c3%a3o-uso-linkedin"
+url = "https://wa.me/+5519987105605"
 
 [[menu.main]]
 name = "Sobre"
@@ -67,11 +67,6 @@ url = "experiences/"
 name = "Contato"
 weight = 4
 url = "contact/"
-
-[[menu.main]]
-name = "Etc."
-weight = 5
-url = "etc/"
 
 [markup.goldmark.renderer]
 unsafe = true
