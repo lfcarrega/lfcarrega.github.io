@@ -30,4 +30,3 @@ Atendimento aos beneficiários do projeto; controle de qualidade, armazenagem e 
 
 ### Técnico em Informática Autônomo | 2011–2016 (5 anos)  
 Instalação e configuração de sistemas Linux e Windows; montagem e manutenção de computadores; suporte ao usuário; configuração de rede e roteadores; automação de tarefas com AutoHotkey, PowerShell e Bash; noções básicas de programação.
-

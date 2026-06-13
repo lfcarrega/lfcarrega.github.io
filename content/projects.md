@@ -14,8 +14,8 @@ Script de automação para transferência de GPU entre host Linux e VMs Windows 
 **[Provisionador automatizado de VMs Windows](https://github.com/lfcarrega/windows-vm-provisioner)** (Bash / QEMU / KVM / WinPE)
 Pipeline completo de criação de VMs Windows via QEMU/KVM: geração de ISO WinPE customizada com UEFI, TPM emulado, aplicação de imagem via DISM com injeção de drivers VirtIO, criptografia de disco com LUKS em LVM thin pool e instalação desassistida via Unattend.xml.
 
-**Homelab com stack de serviços self-hosted** (Caddy / Docker / Incus / Python / REST API / Rsync / SAMBA / Svelte / WireGuard)
-Infraestrutura doméstica com múltiplos serviços containerizados (Docker dentro do Incus) atrás de reverse proxy Caddy com TLS próprio e CA interna. Roteamento por subdomínio, VPN WireGuard para acesso remoto seguro, DNS privado com dnscrypt-proxy, compartilhamento de arquivos com RSYNC e SAMBA. Dashboard de monitoramento em Svelte e API com Python+FastAPI.
+**[Homelab & Automação de Infraestrutura](https://github.com/lfcarrega/gentoo-installer)** (Caddy / Docker / Incus / Python / DNS / Linux / WireGuard / IaC)
+Desenvolvimento de uma stack completa de Infraestrutura como Código (IaC) para automação e gerenciamento de servidores domésticos. O projeto engloba scripts em Python para particionamento, criptografia e bootstrap do Gentoo Linux, integrados a playbooks Ansible para a configuração pós-instalação de serviços essenciais. A infraestrutura conta com proxy reverso Caddy (com TLS automático), redes seguras via VPN WireGuard, DNS privado criptografado (dnscrypt-proxy + Pi-hole) e compartilhamento de arquivos via Samba/RSYNC, centralizando segurança, privacidade e deploy automatizado de serviços.
 
 **EM ANDAMENTO - Infraestrutura Windows Server** (Windows Server 2025 / AD / KVM / DNS)
 Simulação de ambiente corporativo com políticas de grupo (GPO), autenticação centralizada e gestão de usuários para fins de estudo, são duas máquinas virtuais: um DC principal e um membro de domínio com Windows 11.
