@@ -1,6 +1,6 @@
 baseURL = 'https://lfcarrega.github.io/'
 locale = 'pt-br'
-title = 'Lucas Furtado Carregã — Infraestrutura, Suporte e TI'
+title = 'Lucas Carregã: Infraestrutura, Suporte e Automação de TI'
 theme = 'coder'
 languageCode = 'pt-br'
 defaultContentLanguage = 'pt-br'
@@ -19,7 +19,7 @@ hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 customCSS = []
 customSCSS = []
-favicon = true
+favicon = false
 
 # https://getavataaars.com
 avatarURL = "images/avatar.png"

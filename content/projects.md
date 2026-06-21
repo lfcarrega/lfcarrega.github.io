@@ -1,4 +1,6 @@
-## Projetos
+---
+title: "Projetos"
+---
 
 **[Motor de Relatórios Web](https://github.com/lfcarrega/reports-engine)** (AutoHotkey / T-SQL / JavaScript)  
 Ferramenta desktop para geração de relatórios a partir de bases SQL Server, com interface web servida localmente via Caddy Server. Executa consultas T-SQL parametrizadas por data, usuário e loja, e exibe os resultados em tabelas interativas com filtros e exportação para CSV, XLSX, PDF e HTML.
@@ -9,8 +11,8 @@ Ferramenta CLI em Python para hot-plug de dispositivos USB em máquinas virtuais
 **[Orquestrador de GPU Passthrough para Virtualização](https://github.com/lfcarrega/gpu-passthrough-manager)** (Bash / Libvirt / VFIO)  
 Script de automação para transferência de GPU entre host Linux e VMs Windows via VFIO, gerenciando o ciclo completo de detach/reattach de dispositivos PCI e conexão via Moonlight/Sunshine.
 
-**[Provisionador automatizado de VMs Windows](https://github.com/lfcarrega/windows-vm-provisioner)** (Bash / QEMU / KVM / WinPE)
-Pipeline completo de criação de VMs Windows via QEMU/KVM: geração de ISO WinPE customizada com UEFI, TPM emulado, aplicação de imagem via DISM com injeção de drivers VirtIO, criptografia de disco com LUKS em LVM thin pool e instalação desassistida via Unattend.xml.
+**[Provisionador Windows](https://github.com/lfcarrega/windows-vm-provisioner)** (Bash / Go / PowerShell / Windows)
+Alternativa à descontinuada solução de provisionamento MDT da Microsoft. Gera uma ISO do WinPE minimalista e customizável que inicializa um agente em Go responsável por reportar dados do ambiente a um controlador remoto e permitir a execução de scripts PowerShell para fins de deployment. O repositório conta também com um playbook Ansible de exemplo de uso da ferramenta.
 
 **[Homelab & Automação de Infraestrutura](https://github.com/lfcarrega/gentoo-installer)** (Caddy / Docker / Incus / Python / DNS / Linux / WireGuard / IaC)
 Desenvolvimento de uma stack completa de Infraestrutura como Código (IaC) para automação e gerenciamento de servidores domésticos. O projeto engloba scripts em Python para particionamento, criptografia e bootstrap do Gentoo Linux, integrados a playbooks Ansible para a configuração pós-instalação de serviços essenciais. A infraestrutura conta com proxy reverso Caddy (com TLS automático), redes seguras via VPN WireGuard, DNS privado criptografado (dnscrypt-proxy + Pi-hole) e compartilhamento de arquivos via Samba/RSYNC, centralizando segurança, privacidade e deploy automatizado de serviços.

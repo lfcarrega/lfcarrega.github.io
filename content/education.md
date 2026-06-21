@@ -1,4 +1,6 @@
-## Educação
+---
+title: "Educação"
+---
 
 ### Tecnólogo em Análise e Desenvolvimento de Sistemas EAD @ [Descomplica](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) | 2026–2028 (Em breve)
 * Foco em Desenvolvimento de Software, Banco de Dados, Mobile e IA
