@@ -1,6 +1,6 @@
 baseURL = 'https://lfcarrega.github.io/'
 locale = 'pt-br'
-title = 'Lucas Carregã: Infraestrutura, Suporte e Automação de TI'
+title = 'lfcarrega'
 theme = 'coder'
 languageCode = 'pt-br'
 defaultContentLanguage = 'pt-br'
