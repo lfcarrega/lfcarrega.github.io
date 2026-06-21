@@ -2,13 +2,13 @@
 title: "Projetos"
 ---
 
-**[Motor de Relatórios Web](https://github.com/lfcarrega/reports-engine)** (AutoHotkey / T-SQL / JavaScript)  
+**[Motor de Relatórios Web](https://github.com/lfcarrega/reports-engine)** (AutoHotkey / T-SQL / JavaScript)
 Ferramenta desktop para geração de relatórios a partir de bases SQL Server, com interface web servida localmente via Caddy Server. Executa consultas T-SQL parametrizadas por data, usuário e loja, e exibe os resultados em tabelas interativas com filtros e exportação para CSV, XLSX, PDF e HTML.
 
-**[Gerenciador de Dispositivos USB para VMs](https://github.com/lfcarrega/libvirt-helper)** (Python / Libvirt API)  
+**[Gerenciador de Dispositivos USB para VMs](https://github.com/lfcarrega/libvirt-helper)** (Python / Libvirt API)
 Ferramenta CLI em Python para hot-plug de dispositivos USB em máquinas virtuais KVM/QEMU sem edição manual de XML. Integra com a API do Libvirt e oferece menus interativos para seleção de domínios e dispositivos.
 
-**[Orquestrador de GPU Passthrough para Virtualização](https://github.com/lfcarrega/gpu-passthrough-manager)** (Bash / Libvirt / VFIO)  
+**[Orquestrador de GPU Passthrough para Virtualização](https://github.com/lfcarrega/gpu-passthrough-manager)** (Bash / Libvirt / VFIO)
 Script de automação para transferência de GPU entre host Linux e VMs Windows via VFIO, gerenciando o ciclo completo de detach/reattach de dispositivos PCI e conexão via Moonlight/Sunshine.
 
 **[Provisionador Windows](https://github.com/lfcarrega/windows-vm-provisioner)** (Bash / Go / PowerShell / Windows)
