@@ -1,6 +1,6 @@
 ---
 layout: "resume"
-title: "Currículo"
+title: "Lucas Furtado Carregã"
 ---
 
 Infraestrutura, Suporte N2/N3 e Automação de TI
