@@ -3,25 +3,29 @@ title: "Experiências"
 ---
 
 ### Analista de Suporte Júnior @ [Sistemas Nano](https://sistemasnano.com.br/) | 2024–2025 (15 meses)
-* Suporte N1/N2 remoto em ERP Windows
-* Administração e queries em SQL Server
-* Configuração de periféricos fiscais e integrações (iFood, Nuvemshop)
+* Suporte técnico remoto N1/N2 em ambiente Windows para sistema ERP.
+* Manipulação de dados e criação de queries em SQL Server para relatórios customizados.
+* Gerenciamento de rotinas de backup e manutenção básica de banco de dados.
+* Configuração de periféricos de automação comercial e fiscal (SAT, TEF, balanças e impressoras térmicas) e integrações (iFood, Zé Delivery, Nuvemshop).
+* Diagnóstico de falhas, migração de dados e suporte a regras de negócio do cliente.
 <details>
 <summary>Descrição...</summary>
-Suporte técnico remoto N1/N2 em ambiente Windows para um sistema ERP; configuração e integração de periféricos fiscais (SAT, TEF, balanças); manipulação e manutenção de bancos de dados MS SQL Server; administração de rotinas de backup; diagnóstico e resolução de falhas de sistema; desenvolvimento de relatórios customizados com queries SQL aplicando lógica de negócio do cliente; migração de dados entre bancos de dados; suporte no uso de marketplaces, plataformas de delivery e cardápios digitais integrados ao sistema (Ifood, Zé Delivery e Nuvemshop).
+Suporte técnico remoto N1/N2 em ambiente Windows para um sistema ERP via WhatsApp, telefone e e-mail; configuração e integração de periféricos fiscais (SAT, TEF, balanças); manipulação e manutenção de bancos de dados MS SQL Server; administração de rotinas de backup; diagnóstico e resolução de falhas de sistema; desenvolvimento de relatórios customizados com queries SQL aplicando lógica de negócio do cliente; migração de dados entre bancos de dados; suporte no uso de marketplaces, plataformas de delivery e cardápios digitais integrados ao sistema (Ifood, Zé Delivery e Nuvemshop); registro e acompanhamento dos atendimentos em sistema de tickets próprio da empresa.
 </details>
 
 ### Auxiliar de Digitalização @ [City Connect](https://www.cityconnect.com.br/) | 2023–2024 (9 meses)
-* Criação de ferramentas em AutoHotkey
+* Digitalização de documentos
+* Desenvolvimento de ferramentas em AutoHotkey
 * Montagem e configuração de rede local
 <details>
 <summary>Descrição...</summary>
-Recebimento, conferência e preparação/higienização dos documentos; digitalização; controle de qualidade; remontagem dos processos para devolução ao cliente; organização e triagem de documentos; indexação em sistema GED; preenchimento diário de planilhas; desenvolvimento de ferramenta em AutoHotkey responsável pela indexação e contagem automática dos arquivos capturados pela equipe de digitalização; desenvolvimento de ferramenta em AutoHotkey para contagem de páginas em PDFs, exportando resultado em template definido pela gestão imediata; configuração e implementação de rede local, cabeamento, configuração do roteador e desenvolvimento de script em PowerShell responsável por automatizar o compartilhamento e configuração das pastas compartilhadas em ambiente Windows.
+Recebimento, conferência e preparação/higienização dos documentos; digitalização; controle de qualidade; remontagem dos processos para devolução ao cliente; organização e triagem de documentos; indexação em sistema GED; preenchimento diário de planilhas; desenvolvimento de ferramenta em AutoHotkey responsável pela indexação e contagem automática dos arquivos capturados pela equipe de digitalização; desenvolvimento de ferramenta em AutoHotkey para contagem de páginas em PDFs, exportando resultado em template definido pela gestão imediata; configuração e implementação de rede local, cabeamento, configuração do roteador e desenvolvimento de script em PowerShell responsável por automatizar a configuração das pastas compartilhadas em ambiente Windows.
 </details>
 
 ### Assistente Administrativo @ [JSL](https://jsl.com.br/) | 2016–2022 (5 anos e 2 meses)
-* Criação e manutenção de planilha Excel Online para controle de documentos de transporte
-* Desenvolvimento de ferramentas AutoHotkey para automatizar o cadastro de Notas Fiscais em sistema de transporte
+* Desenvolvimento de ferramentas em AutoHotkey para automação de cadastros em sistemas (TMS)
+* Criação de planilhas colaborativas em Excel Online para controle operacional e de documentos
+* Rotinas administrativas, emissão de documentos fiscais (CT-e, MDF-e) e atendimento ao cliente
 <details>
 <summary>Descrição...</summary>
 Emissão de Conhecimento de Transporte Eletrônico (CT-e), Manifesto Eletrônico de Documentos Fiscais (MDF-e) e Nota Fiscal de Serviços Eletrônica (NFS-e); Cadastro e compra do Vale Pedágio (Via Fácil e DBTrans);  Atendimento ao cliente, motorista e fornecedor através de e-mail, WhatsApp e telefone; Monitoramento, planejamento e roteirização; Arquivo e controle de documentos; Construção e manutenção de planilhas Excel, apresentações em PowerPoint e documentos diversos com o Word; Desenvolvimento de planilha Excel para controle da emissão de documentos de transporte, criada em plataforma Online visando a colaboração da equipe, que se dividia em três turnos diferentes; Desenvolvimento de ferramenta AutoHotkey e planilhas Excel, para facilitar o cadastro de Notas Fiscais em sistema de gestão de transporte (TWRP); Experiência com horários rotativos, incluindo período noturno.
