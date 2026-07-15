@@ -11,4 +11,4 @@ skills: btrfs, raid, lvm, luks, zfs, bash, python, powershell, autohotkey, mssql
 **Redes**: Active Directory, DNS, WireGuard, Rsync, SAMBA  
 **Sistemas**: Linux, Windows Server, Windows  
 **Virtualização**: KVM/QEMU, Libvirt, Incus, Docker  
-**Web & API**: FastAPI, Svelte, Caddy  
+**Web & API**: FastAPI, Svelte, Caddy
