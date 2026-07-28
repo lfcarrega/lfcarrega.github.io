@@ -1,7 +1,7 @@
 baseURL = 'https://lfcarrega.github.io/'
 locale = 'pt-br'
 title = 'lfcarrega'
-theme = 'coder'
+theme = 'hugo-coder'
 languageCode = 'pt-br'
 defaultContentLanguage = 'pt-br'
 enableEmoji = 'true'

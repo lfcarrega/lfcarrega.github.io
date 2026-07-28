@@ -21,14 +21,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive  # puxa o theme
+          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.160.1'
-          extended: true         # você usa a versão extended
+          hugo-version: 'latest'
+          extended: true
 
       - name: Build
         run: hugo --minify
