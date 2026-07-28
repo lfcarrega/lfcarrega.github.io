@@ -68,6 +68,11 @@ name = "Contato"
 weight = 4
 url = "contact/"
 
+[[menu.main]]
+name = "Currículo"
+weight = 5
+url = "resume/"
+
 [markup.goldmark.renderer]
 unsafe = true
 
