@@ -10,5 +10,5 @@ title: "Projetos"
 - Infraestrutura como Código (IaC) para provisionamento e automação de servidores locais. Inclui deploys automatizados via Ansible de serviços como proxy reverso Caddy, VPN WireGuard e containers Docker.
 - Montagem e manutenção de servidor doméstico com hardware reaproveitado e adaptado (troca de placa-mãe por incompatibilidade, uso de memória de notebook via adaptador, upgrade de armazenamento com NVMe dedicado e NAS com SSDs/HDDs reaproveitados).
 - Remoção do Intel Management Engine via ME Cleaner, com regravação de flash SPI por gravador externo (CH341), por questão de segurança em firmware desatualizado (UEFI de 2017).
-- Tuning de firmware UEFI via script de setup variables (ACPI, ASPM, velocidade de link PCIe, SGX) para otimizar desempenho e estabilidade em uso contínuo como servidor.
+- Automatizei ajuste de variáveis de firmware UEFI (ACPI, ASPM, PCIe, SGX) via script UEFI Shell com a ferramenta setup_var, otimizando desempenho e estabilidade em uso contínuo como servidor.
 - Virtualização e containerização com Gentoo Linux como base, VM ArchLinux e múltiplos containers LXC (Incus), incluindo ambiente Docker aninhado.
